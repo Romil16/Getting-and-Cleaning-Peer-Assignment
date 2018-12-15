@@ -1,6 +1,6 @@
 library(dplyr)
 
-filename <- "Coursera_DS3_Final.zip"
+filename <- "CI HAR Dataset.zip"
 
 #Checking if archieve already exists.
 if (!file.exists(filename)){
